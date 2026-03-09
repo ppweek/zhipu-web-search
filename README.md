@@ -19,7 +19,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/zhipu-web-search.git
+git clone https://github.com/ppweek/zhipu-web-search.git
 cd zhipu-web-search
 ```
 
@@ -164,8 +164,8 @@ Token 消耗: 5447 (输入: 5019, 输出: 428)
 
 ## 📮 联系方式
 
-- 项目主页：https://github.com/yourusername/zhipu-web-search
-- 问题反馈：https://github.com/yourusername/zhipu-web-search/issues
+- 项目主页：https://github.com/ppweek/zhipu-web-search
+- 问题反馈：https://github.com/ppweek/zhipu-web-search/issues
 
 ---
 
